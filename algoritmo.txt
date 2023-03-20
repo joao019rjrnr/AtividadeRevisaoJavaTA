@@ -1,0 +1,14 @@
+Algorítimo 1
+    1. ler a primeira nota(mandar mensagem para usuário e ler o que o usuário digitar);
+    2. ler a segunda nota;
+    3. calcular amédia das notas;
+    4. mostrar a média calculada;
+    5. digite o total de aulas;
+    6. digite o nº de faltas do aluno;
+    7. calcular a % de frequência;
+    8. mostra a % de frequência;
+    9. se (medida>=50 e frequência>=75%) {
+        então Aluno Aprovado
+    } se não {
+        então Aluno Reprovado
+    }
